@@ -1,0 +1,164 @@
+{
+    "personal": {
+        "name": "Tanvi Surana",
+        "greeting": "HELLO, WELCOME TO MY PORTFOLIO",
+        "role": "BCA Student | Web Developer",
+        "profileImage": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=600",
+        "introduction": "I am a passionate BCA first-year student interested in web development, programming and modern technologies. I enjoy learning new skills and building creative digital projects.",
+        "careerGoal": "To become a professional Full Stack Developer and build innovative technology solutions.",
+        "email": "rahulsharma@example.com",
+        "phone": "+91 9876543210",
+        "location": "Mumbai, Maharashtra, India",
+        "resume": "resume.pdf"
+    },
+
+    "about": {
+        "description": "Hello! My name is Rahul Sharma. I am currently pursuing Bachelor of Computer Applications (BCA). I have a strong interest in computer science, web development and programming. I am learning HTML, CSS, JavaScript, Bootstrap, C and C++. I believe in continuous learning and improving my technical abilities through practical projects. My objective is to develop professional skills, gain real-world experience and become a successful software developer."
+    },
+
+    "skills": [
+        {
+            "name": "HTML5",
+            "icon": "bi bi-filetype-html",
+            "description": "Creating structured and semantic web pages.",
+            "level": 85
+        },
+        {
+            "name": "CSS3",
+            "icon": "bi bi-filetype-css",
+            "description": "Designing attractive and responsive websites.",
+            "level": 75
+        },
+        {
+            "name": "JavaScript",
+            "icon": "bi bi-filetype-js",
+            "description": "Adding interactive functionality to websites.",
+            "level": 60
+        },
+        {
+            "name": "Bootstrap 5",
+            "icon": "bi bi-bootstrap",
+            "description": "Building responsive layouts using Bootstrap.",
+            "level": 75
+        },
+        {
+            "name": "C Programming",
+            "icon": "bi bi-code-slash",
+            "description": "Learning programming fundamentals and logic.",
+            "level": 65
+        },
+        {
+            "name": "C++",
+            "icon": "bi bi-filetype-cpp",
+            "description": "Understanding object-oriented programming.",
+            "level": 55
+        }
+    ],
+
+    "projects": [
+        {
+            "name": "Personal Portfolio Website",
+            "image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=800",
+            "description": "A responsive personal portfolio website developed to showcase my skills, projects, education and contact information.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "Bootstrap 5",
+                "JavaScript"
+            ],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "Student Management System",
+            "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800",
+            "description": "A basic student management project designed to organize student information and academic records.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "Calculator Application",
+            "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800",
+            "description": "A simple calculator application that performs basic mathematical operations with an attractive interface.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript"
+            ],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "Landing Page Design",
+            "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800",
+            "description": "A modern responsive landing page designed to practice web layouts, typography and responsive design.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "Bootstrap 5"
+            ],
+            "link": "https://github.com/"
+        }
+    ],
+
+    "education": {
+        "course": "Bachelor of Computer Applications (BCA)",
+        "college": "ABC College of Computer Science",
+        "duration": "2026 - 2029",
+        "semester": "First Year | Semester 1",
+        "academicDetails": "Currently studying computer fundamentals, programming in C, mathematics and web development basics.",
+        "status": "Currently Pursuing"
+    },
+
+    "certifications": [
+        {
+            "name": "HTML and CSS Fundamentals",
+            "provider": "Online Learning Platform",
+            "year": "2026",
+            "link": ""
+        },
+        {
+            "name": "Introduction to C Programming",
+            "provider": "Online Learning Platform",
+            "year": "2026",
+            "link": ""
+        },
+        {
+            "name": "JavaScript for Beginners",
+            "provider": "Online Learning Platform",
+            "year": "2026",
+            "link": ""
+        },
+        {
+            "name": "Responsive Web Design",
+            "provider": "Online Learning Platform",
+            "year": "2026",
+            "link": ""
+        }
+    ],
+
+    "socialLinks": [
+        {
+            "name": "GitHub",
+            "icon": "bi bi-github",
+            "url": "https://github.com/"
+        },
+        {
+            "name": "LinkedIn",
+            "icon": "bi bi-linkedin",
+            "url": "https://www.linkedin.com/"
+        },
+        {
+            "name": "Instagram",
+            "icon": "bi bi-instagram",
+            "url": "https://www.instagram.com/"
+        },
+        {
+            "name": "Facebook",
+            "icon": "bi bi-facebook",
+            "url": "https://www.facebook.com/"
+        }
+    ]
+}
